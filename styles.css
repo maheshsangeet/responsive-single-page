@@ -119,6 +119,8 @@
   box-shadow: 15px 15px 15px rgb(233, 229, 229);
   overflow: hidden;
   text-align: center;
+   margin-right: 1.6rem;
+
 }
 .item-img img {
   margin-top: 1em;
